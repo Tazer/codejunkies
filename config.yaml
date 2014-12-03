@@ -4,6 +4,6 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://tazer.github.io/codejunkies"
+baseurl: "http://tazer.github.io/codejunkies/"
 title: "Hugo Blog Template for GitHub Pages"
 ...
