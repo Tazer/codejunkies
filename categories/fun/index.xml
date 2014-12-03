@@ -3,7 +3,7 @@
   <channel>
       <title>Fun on Hugo Blog Template for GitHub Pages </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://tazer.github.io/codejunkies/categories/fun/index.xml/</link>
+    <link>/categories/fun/index.xml/</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://tazer.github.io/codejunkies/posts/newest/</link>
+      <link>/posts/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://tazer.github.io/codejunkies/posts/newest/</guid>
+      <guid>/posts/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;First Heading&lt;/h2&gt;
